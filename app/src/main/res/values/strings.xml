@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuporteBasicoDeVida5</string>
+    <!-- <string name="hello_world">Hello world!</string> -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sbv_verificar_estado_de_consciencia">sbv_verificar_estado_de_consciencia</string>
+    <string name="title_activity_sbv_abertura_da_via_aerea">sbv_abertura_da_via_aerea</string>
+    <string name="title_activity_sbv_vos">sbv_vos</string>
+    <string name="title_activity_sbv_respira">sbv_respira</string>
+    <string name="title_activity_sbv_compressoes_toraxicas_e_insuflacoes">sbv_compressoes_toraxicas_e_insuflacoes</string>
+    <string name="title_activity_sbv_pls">sbv_pls</string>
+    <string name="title_activity_eng_pedir_para_tossir">eng_pedir_para_tossir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_eng_dar_pancadas_nas_costas">eng_dar_pancadas_nas_costas</string>
+    <string name="title_activity_eng_manobra_de_heimlich">eng_manobra_de_heimlich</string>
+    <string name="engasgamento">Engasgamento</string>
+    <string name="suporte_basico_de_vida">SBV</string>
+    <string name="emergencia">112</string>
+    <string name="consciente">Consciente</string>
+    <string name="nao_consciente">Não Consciente</string>
+    <string name="anterior">Anterior</string>
+    <string name="seguinte">Seguinte</string>
+    <string name="respira">Respira</string>
+    <string name="nao_respira">Não Respira</string>
+    <string name="feito">Feito</string>
+    <string name="fim">Fim</string>
+    <string name="resolveu">Resolveu</string>
+    <string name="nao_resolveu">Não Resolveu</string>
+    <string name="home">HOME</string>
+    <string name="estado_de_consciencia">1.Avaliar o Estado de Consciência da pessoa.\n2.Perguntar se está bem e se consegue ouvir.\n3.Caso não responda fazer sinais para ver se a pessoa reage.</string>
+    <string name="pedirajuda">1.Gritar por socorro.\n2.Pedir auxilio a alguem.\n3.Chamar o 112. </string>
+    <string name="vos_ventilacao">1.Pôr a mão na testa da vítima e inclinar a cabeça para trás.\n2.Pontas dos dedos da outra mão sob a ponta do queixo da vítima.\n3.Elevar o queixo para abrir as vias aéreas.</string><!--Não pressionar a zona mole sobre o queixo!-->
+    <string name="vos_sentidos">Durante 10 segundos, colocar a sua face perto da boca da pessoa e verificar:\n-Se vê os movimentos toráxicos\n-Se ouve os sons respiratórios\n-Se sente o ar expirado na face</string>
+    <!--
+    caso:1
+    <string name="pls">
+                    1.Cabeça em extensão
+                    2.Remover os objectos da vítima, verificar conteúdo dos bolsos.
+                    3.Ajoelhar ao lado da vítima e certificar que as pernas estão esticadas.
+                    4.Colocar o membro superior da vítima em ângulo recto, em relação ao corpo da mesma. Dobrar o antebraço para cima, com a palma da mão virada para cima</string>
+    caso:2
+    <string name="pls2">
+                    5.Colocar o outro braço da vítima atravessado sobre o tórax. Segurar as costas da mão contra a bochecha
+                    6.Com a mão livre, agarrar pelo joelho a perna da vítima que fica oposta a si. Elevar a perna da vítima, mas deixar o pé no chão</string>
+    caso:3
+    <string name="pls3">
+                    7.Puxar a perna elevada na sua direcção
+                    8.Virar a vítima na sua direcção para a colocar de lado</string>
+    caso:4
+    <string name="pls4">
+                    9.Inclinar a cabeça para manter as vias aéreas desobstruídas.
+		            10.Certifique-se que a boca da vítima está orientada para baixo. Isto evita que esta se engasgue com sangue ou vómito.
+		            11.Posicionar a perna que está por</string>
+    -->
+
+    <string name="compresoestoracicas">1.Ajoelhar-se ao lado da vítima
+				    2.Base de uma mão no centro do tórax da vítima
+                    3.Base da outa mão em cima da primeira mão
+                    4.Entrelaçar os dedo das duas mãos
+
+				    30 compressões torácicas – 100 compressões/min</string>
+    <string name="compresoestoracicas1">Ombros estão directamente acima do centro do tórax da vítima. Com os braços esticados, exercer pressão 4 a 5 centímetros directamente para baixo</string>
+    <!--
+        <string name="insuflacoes">                    1.Uma mão na testa da vítima
+                    2.Comprimir as narinas da vítima com o polegar e o indicador
+                    3.Com a outra mão, manter o queixo elevado
+                    4. Inspirar normalmente, inclinar-se para a frente, colocar a boca completamente sobre a boca da vítima
+				    5.Insuflar para dentro da boca da vítima e verificar se o tórax se eleva.
+				    6.Mantenha a cabeça da vítima para trás com a elevação do queixo para verificar se o tórax baixa
+
+				    2 insuflações por ciclo – 1 insuflação/segundo</string>
+    -->
+    <string name="esta_tudo_bem">1.Avaliar o estado da pessoa.\n2. Caso a pessoa não consiga tossir nem respirar tente insentivar para tossir.\n</string>
+    <string name="pancadasintercostais">1.Inclinar a vítima.\n2.Com a mão exticada bata no centro das costas debaixo para cima (5 vezes no maximo).\n</string>
+    <string name="maos">1.Feiche uma das mãos.\n2.Coloque os braços ao redor da pessoa e agarre a outra mão fechada.</string>
+    <string name="pegadearmas">3.Coloque as mãos entre as costelas e o osso externo do tórax.4.Compressões abdominias (5 vezes no máximo).</string>
+    <string name="pls1">1.Pôr a cabeça em extensão.\n2.Ajoelhar ao lado da vítima e certificar que as pernas estão esticadas.\n3.Colocar o braço da vítima em ângulo recto, com a palma da mão voltada para cima.</string>
+    <string name="pls2">1.Colocar o outro braço da vítima atravessado sobre o tórax. Segurar as costas da mão contra a bochecha.\n2.Com a mão livre, agarrar pelo joelho a perna da vítima que fica oposta a si.</string>
+    <string name="pls3">1.Puxar a perna elevada na sua direcção.\n2.Virar a vítima na sua direcção para a colocar de lado</string>
+    <string name="pls4">1.Inclinar a cabeça da vítima e colocar a boca orientada para baixo.\n2.Posicionar a perna que está por cima em ângulo recto.\n3.Verificar regularmente a ventilação.</string>
+    <string name="compressoes1">1.Ajoelhar-se ao lado da vítima.\n2.Colocar a palma de uma mão no centro do tórax da vítima.</string>
+    <string name="compressoes2">1.Colocar a palma da outra mão em cima da primeira.\n2.Entrelaçar os dedos das duas mãos.</string>
+    <string name="compressoes3">1.Os ombros devem estar directamente acima do centro do tórax da vítima.\n2.Com os braços esticados, exercer pressão 4 a 5 centímetros directamente para baixo.\n3.Exercer 30 compressões.</string>
+    <string name="title_activity_sbv_compressoes_toraxicas_e_insuflacoes_segunda_parte">sbv_compressoes_toraxicas_e_insuflacoes_segunda_parte</string>
+    <string name="title_activity_sbv_compressoes_toraxicas_e_insuflacoes_terceira_parte">sbv_compressoes_toraxicas_e_insuflacoes_terceira_parte</string>
+    <string name="title_activity_sbv_compressoes_toraxicas_e_insuflacoes_quarta_parte">sbv_compressoes_toraxicas_e_insuflacoes_quarta_parte</string>
+    <string name="insuflacoes">1.Coloque uma mão na testa da vítima e comprima as narinas. Junte a sua boca à boca dela.\n2.Insuflar 2 vezes e verificar se o tórax se eleva.\n3.Manter a cabeça da vítima para trás e verificar se o tórax baixa.</string>
+    <string name="title_activity_sbv_pls_segunda_parte">sbv_pls_segunda_parte</string>
+    <string name="title_activity_sbv_pls_terceira_parte">sbv_pls_terceira_parte</string>
+    <string name="title_activity_sbv_pls_quarta_parte">sbv_pls_quarta_parte</string>
+    <string name="pacadasintercostais">1.Inclinar a vítima.\n2.Com a mão aberta bata 5 vezes no centro das costas de baixo para cima</string>
+    <string name="manobra">Faça um movimento de dentro para cima, 5 vezes no máximo.</string>
+    <string name="mãos1">1.Fecha uma mão em forma de punho.\n2.Abra a outra mão por completo.</string>
+    <string name="mãos2">1.Coloque as mãos à volta da pessoa e agarre o punho fechado.\n2.Coloque as mãos 2 dedos abaixo do tórax entre as costelas.\n</string>
+    <string name="title_activity_eng_manobra_de_heimlich_segunda_parte">eng_manobra_de_heimlich_segunda_parte</string>
+    <string name="title_activity_eng_manobra_de_heimlich_terceira_parte">eng_manobra_de_heimlich_terceira_parte</string>
+
+</resources>
