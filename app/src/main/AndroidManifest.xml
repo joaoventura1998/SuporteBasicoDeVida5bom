@@ -16,10 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".sbv_verificar_estado_de_consciencia"
+        <!--activity
+            android:name=".FragmentSbvVerificarEstadoDeConsciencia"
             android:label="@string/title_activity_sbv_verificar_estado_de_consciencia" >
-        </activity>
+        </activity-->
         <activity
             android:name=".sbv_abertura_da_via_aerea"
             android:label="@string/title_activity_sbv_abertura_da_via_aerea" >
@@ -28,10 +28,7 @@
             android:name=".sbv_vos"
             android:label="@string/title_activity_sbv_vos" >
         </activity>
-        <activity
-            android:name=".sbv_respira"
-            android:label="@string/title_activity_sbv_respira" >
-        </activity>
+
         <activity
             android:name=".sbv_compressoes_toraxicas_e_insuflacoes"
             android:label="@string/title_activity_sbv_compressoes_toraxicas_e_insuflacoes" >
@@ -40,10 +37,10 @@
             android:name=".sbv_pls"
             android:label="@string/title_activity_sbv_pls" >
         </activity>
-        <activity
-            android:name=".eng_pedir_para_tossir"
+        <!--activity
+            android:name=".FragmentEngPedirParaTossir"
             android:label="@string/title_activity_eng_pedir_para_tossir" >
-        </activity>
+        </activity-->
         <activity
             android:name=".eng_dar_pancadas_nas_costas"
             android:label="@string/title_activity_eng_dar_pancadas_nas_costas" >

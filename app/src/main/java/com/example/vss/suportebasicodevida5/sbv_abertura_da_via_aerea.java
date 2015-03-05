@@ -46,7 +46,7 @@ public class sbv_abertura_da_via_aerea extends ActionBarActivity {
         switch (((Button) b).getText().toString()) {
             case "HOME":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), MainActivity.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentPrincipal.class), 0);
                 break;
 
             case "112":
@@ -56,7 +56,7 @@ public class sbv_abertura_da_via_aerea extends ActionBarActivity {
 
             case "Anterior":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), sbv_verificar_estado_de_consciencia.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentSbvVerificarEstadoDeCosciencia1.class), 0);
                 break;
 
             case "Seguinte":

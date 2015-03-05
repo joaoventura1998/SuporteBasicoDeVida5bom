@@ -46,7 +46,7 @@ public class sbv_vos extends ActionBarActivity {
         switch (((Button) b).getText().toString()) {
             case "HOME":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), MainActivity.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentPrincipal.class), 0);
                 break;
 
             case "112":

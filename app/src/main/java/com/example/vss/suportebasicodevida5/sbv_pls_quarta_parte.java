@@ -46,7 +46,7 @@ public class sbv_pls_quarta_parte extends ActionBarActivity {
         switch (((Button) b).getText().toString()) {
             case "HOME":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), MainActivity.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentPrincipal.class), 0);
                 break;
 
             case "112":
@@ -61,7 +61,7 @@ public class sbv_pls_quarta_parte extends ActionBarActivity {
 
             case "Seguinte":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), MainActivity.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentPrincipal.class), 0);
                 break;
 
             default:

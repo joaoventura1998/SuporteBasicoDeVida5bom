@@ -32,6 +32,9 @@
     <string name="pedirajuda">1.Gritar por socorro.\n2.Pedir auxilio a alguem.\n3.Chamar o 112. </string>
     <string name="vos_ventilacao">1.Pôr a mão na testa da vítima e inclinar a cabeça para trás.\n2.Pontas dos dedos da outra mão sob a ponta do queixo da vítima.\n3.Elevar o queixo para abrir as vias aéreas.</string><!--Não pressionar a zona mole sobre o queixo!-->
     <string name="vos_sentidos">Durante 10 segundos, colocar a sua face perto da boca da pessoa e verificar:\n-Se vê os movimentos toráxicos\n-Se ouve os sons respiratórios\n-Se sente o ar expirado na face</string>
+    <string name="creditos">Criadores da Aplicação:\nJoão Ventura nº6\nSamuel Santos nº15\nTurma:2ºGI\nEscola: Ferreira Dias\nMail:vigionsoftware@gmail.com\nProf.Orientador: Alexandre Ferraz
+    </string>
+    <!--
     <!--
     caso:1
     <string name="pls">

@@ -46,7 +46,7 @@ public class sbv_compressoes_toraxicas_e_insuflacoes_segunda_parte extends Actio
         switch (((Button) b).getText().toString()) {
             case "HOME":
                 //Método que pertence à classe super
-                startActivityForResult(new Intent(b.getContext(), MainActivity.class), 0);
+                startActivityForResult(new Intent(b.getContext(), FragmentPrincipal.class), 0);
                 break;
 
             case "112":
